@@ -1,5 +1,5 @@
 # from_excel_to_json
-A simple python script that enables a simple yet usefule excel-to-json conversion
+A simple python script that enables a simple yet useful excel-to-json conversion
 
 ![Output example](./banner.jpeg "Output example")
 
